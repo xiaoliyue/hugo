@@ -18,7 +18,7 @@ jobs:
           node-version: '18'
 
       - name: Export Notion to Markdown
-        uses: syarihu/notion-hugo-exporter@master
+        uses: yannbolliger/notion-exporter@master
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
