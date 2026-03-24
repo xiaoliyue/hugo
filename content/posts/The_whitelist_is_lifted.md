@@ -2,7 +2,7 @@
 title: "联想网卡白名单解除"
 date: 2022-03-29
 slug: "The_whitelist_is_lifted"
-lastmod: 2026-03-24T06:50:53.977Z
+lastmod: 2026-03-24T12:42:57.935Z
 ---
 
 
